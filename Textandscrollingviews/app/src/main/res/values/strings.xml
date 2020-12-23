@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Text and scrolling views</string>
+    <string name="article_title">Article Title One</string>
+    <string name="article_subtitle"><b>RIB yerekanye batatu barimo Abanye-Congo bafatanywe 9000$ y’amiganano</b></string>
+    <string name="article_text">Aba bose uko ari batatu bari bafite itsinda bakorana aho babeshyaga abantu ko bakora amafaranga ndetse RIB ikaba yabafatanye 9000$ y’amiganano.
+
+Usibye kuba bakoraga amafaranga, basabaga abantu kubavunjira amadolari, bakabaha amafaranga y’u Rwanda babizeza inyungu y’umurengera nyuma bakabatekera umutwe bakabaha amadolari y’amiganano.
+
+Umwe mu bafite ubwenegihugu bwa Repubulika Iharanira Demokarasi ya Congo yiyemerera ko yari amaze gutekera umutwe abantu benshi.
+
+Yagize ati “Sinakubwira ngo umubare w’abo nakoreye ubutekamutwe muri ubu buryo ni uyu kuko ni benshi. Biterwa n’igihe dukeneye amafaranga n’ibyo na bo bashaka.’’
+
+Yavuze ko ibyo yakoraga yari azi neza ko ari ubutekamutwe agasaba Abanyarwanda kugira amakenga bakabanza bagashishoza mbere yo kwemera ibyo babwiwe.
+
+Yakomeje ati “Ibyo dukora ni ubutekamutwe. Nabukoreye abantu benshi. Sinakubwira umubare, ndifuriza Abanyarwanda kwitonda, bakabanza bagashishoza bakagendera kure abatekamutwe nkanjye.’’
+
+Umuvugizi w’Umusigire wa RIB, Dr. Murangira B. Thierry, yavuze ko ibikorwa byakorewe mu Rwanda ndetse ko abafashwe byagezweho ku bufatanye n’abaturage.
+
+Ati “Icyo tubwira abantu ni ukujya bagira amakenga. Umuntu ukwizeza inyungu y’igitangaza aba akora hehe? Wamubwiye iyo nyungu akayijyanira. Rero tugire amakenga nk’Abanyarwanda, cyane iyo tugeze mu bihe nk’ibi by’iminsi mikuru abantu nk’aba baraboneka. Tugire amakenga, twirinde ibintu nk’ibi.’’
+
+Abatawe muri yombi nibaramuka bahamijwe ibi byaha bazahanishwa igifungo kiri hagati y’imyaka ibiri n’irindwi ndetse n’ihazabu y’amafaranga y’u Rwanda iri hagati ya miliyoni eshatu na miliyoni eshanu.</string>
+
+    <string name="add_comment">Add Comment</string>
+
+</resources>
